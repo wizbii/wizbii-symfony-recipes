@@ -1,0 +1,11 @@
+{
+  "bundles": {
+    "Wizbii\\MongoBundle\\WizbiiMongoBundle": ["all"]
+  },
+  "env": {
+    "MONGODB_HOST": "localhost",
+    "MONGODB_PORT": "27017",
+    "MONGODB_REPLICA_SET": "",
+    "MONGODB_TAG": "frontend"
+  }
+}
