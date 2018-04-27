@@ -1,0 +1,8 @@
+{
+  "bundles": {
+    "Wizbii\\MonitoringBundle\\WizbiiMonitoringBundle": ["all"]
+  },
+  "copy-from-package": {
+    "config/": "%CONFIG_DIR%/"
+  }
+}
